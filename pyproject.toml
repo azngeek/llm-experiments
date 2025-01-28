@@ -1,9 +1,10 @@
 [project]
 name = "llm-experiments"
-version = "0.1.0"
-description = "Add your description here"
+version = "1.0.0"
+description = "Sample Repositories with LLM-Experiments, mainly with Langchain"
 readme = "README.md"
 requires-python = ">=3.10.12"
 dependencies = [
     "langchain>=0.3.16",
+    "langchain-openai>=0.3.2",
 ]

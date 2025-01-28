@@ -7,7 +7,7 @@ from langchain_openai import (
 
 from tabulate import tabulate
 
-# Credentials
+## Credentials
 OPENAI_API_KEY=""
 OPENAI_MODEL="gpt-4-turbo"
 
